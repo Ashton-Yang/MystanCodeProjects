@@ -10,6 +10,8 @@ Here are my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhs
   * animation
 * [breakout_game](https://github.com/Ashton-Yang/MystanCodeProjects/blob/main/stanCode_Projects/SC101_assignment2_breakout_game/breakout.py)
   * animation & game designing
+* [breakout_graphics](https://github.com/Ashton-Yang/MystanCodeProjects/blob/main/stanCode_Projects/SC101_assignment2_breakout_game/breakoutgraphics.py)
+  * object
 * [pedestrian_removing_application](https://github.com/Ashton-Yang/MystanCodeProjects/blob/main/stanCode_Projects/SC101_assignment3_pedestrian_removing_application/pedestrian_removing_application.py)
   * image processing
 * [name_popularity_searching_system](https://github.com/Ashton-Yang/MystanCodeProjects/blob/main/stanCode_Projects/SC101_assignment4_name_popularity_searching_system/babygraphics.py)
