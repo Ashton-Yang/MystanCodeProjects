@@ -1,5 +1,5 @@
 """
-File: stanCodoshop.py
+File: pedestrian_removing_application.py
 Name: Ashton Yang
 ----------------------------------------------
 SC101_Assignment3 Adapted from Nick Parlante's
