@@ -1,9 +1,7 @@
 ## My *stanCode* Projects
 Hello there!
 
-This repository holds my programming projects done during the period of stanCode SC101 course.
-
-Many thanks to my teacher Jerry Liao, all the teaching assistants and my friend Bruce Chen.
+This repository holds my programming projects done during the period of stanCode SC101 course. Many thanks to my teacher Jerry Liao, all the teaching assistants and my friend Bruce Chen.
 
 Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhsWogJ_XPSWp9uERAJClWI?usp=sharing)*
 
