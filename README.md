@@ -1,7 +1,9 @@
 ## My *stanCode* Projects
 Hello there!
 
-This repository holds my programming projects done during the period of stanCode SC101 course (from Mar 26 2022 to Jun 11 2022) after finishing my stanCode SC001 course (from Feb 12 2022 to Mar 19 2022). Many thanks to my teacher Jerry Liao, all the teaching assistants and my friend Bruce Chen.
+This repository holds my programming projects done during the period of stanCode SC101 course (from Mar 26 2022 to Jun 11 2022) 
+after finishing my stanCode SC001 course (from Feb 12 2022 to Mar 19 2022). 
+Many thanks to my teacher Jerry Liao, all the teaching assistants and my friend Bruce Chen.
 
 Here are my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhsWogJ_XPSWp9uERAJClWI?usp=sharing)*
 
