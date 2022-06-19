@@ -1,6 +1,3 @@
-
-# input 為 Jennifer時無法順利畫出折線圖
-
 """
 File: babygraphics.py
 Name: Ashton Yang
