@@ -5,7 +5,7 @@ This repository holds my programming projects done during the period of stanCode
 
 Many thanks to my teacher Jerry Liao, all the teaching assistants and my friend Bruce Chen.
 
-Here are my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhsWogJ_XPSWp9uERAJClWI?usp=sharing)*
+Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhsWogJ_XPSWp9uERAJClWI?usp=sharing)*
 
 ## Project Source Codes:
 * [bouncing_ball_animation](https://github.com/Ashton-Yang/MystanCodeProjects/blob/main/stanCode_Projects/SC101_assignment1_bouncing_ball_animation/bouncing_ball.py)
