@@ -1,5 +1,6 @@
 ## *stanCode* Projects
 Hello there!\
+
 This repository holds my programming projects done during the period of stanCode SC101 course (from Mar 26 2022 to Jun 11 2022).
 
 Here are my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1kwNJCIUTYEhsWogJ_XPSWp9uERAJClWI?usp=sharing)*
