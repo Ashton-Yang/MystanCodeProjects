@@ -1,5 +1,5 @@
 ## My *stanCode* Projects
-Hello there!\
+Hello there!
 
 This repository holds my programming projects done during the period of stanCode SC101 course (from Mar 26 2022 to Jun 11 2022).
 
