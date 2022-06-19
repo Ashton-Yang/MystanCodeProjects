@@ -49,27 +49,6 @@ def add_file(name_data, filename):
         This function modifies the name_data dict to store information from
         the provided file name. This function does not return any value.
     """
-    # with open(filename, 'r') as f:
-    #     lines = []
-    #     for line in f:
-    #         line = line.strip()
-    #         lines.append(line)
-    #     year = lines[0].strip()
-    #     lst_2 = []
-    #     for i in range(1, len(lines)):
-    #         ele = lines[i].split(',')
-    #         lst_2.extend(ele)
-    #     rank_name = []
-    #     for token in lst_2:
-    #         token = token.strip()
-    #         rank_name.append(token)
-    #     # name_data = {}
-    #     for j in range(len(rank_name)//3):
-    #         rank = rank_name[3*j]
-    #         male_name = rank_name[1+3*j]
-    #         female_name = rank_name[2+3*j]
-    #         add_data_for_name(name_data, year, rank, male_name)
-    #         add_data_for_name(name_data, year, rank, female_name)
     with open(filename, 'r') as f:
         is_first = True
         for line in f:
@@ -83,7 +62,6 @@ def add_file(name_data, filename):
                 female_name = lst[2].strip()
                 add_data_for_name(name_data, year, rank, male_name)
                 add_data_for_name(name_data, year, rank, female_name)
-
 
 
 def read_files(filenames):
